@@ -4,6 +4,6 @@
 - Currently using Unity and Monogame
 - Novice to advanced beginner
 - Looking to learn web development in the future
-- Also want to learn c++, but trying to "finish" learning c# first
+- Also want to learn c++(or carbon) and typescript, but learning c# first
 
 - You can reach me through email -> vetle.dyngeland@gmail.com
