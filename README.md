@@ -1,9 +1,8 @@
-- I’m Vetle-Dyngeland, a c# developer from Norway
-- Been into game development and programming since 2019
+Hi, I'm Vetle Dyngleand
 
-- Currently using Unity and Monogame
-- Novice to advanced beginner
-- Looking to learn web development in the future
-- Also want to learn c++(or carbon), rust and javascript, but learning c# first
+I'm a 14 year old aspiring software developer from Bergen, Norway. I have been coding in c# for about two and half years.
+Currently focusing on learning game development with unity and monogame and general c# development.
 
-- You can reach me through my email -> vetle.dyngeland@gmail.com
+I plan to learn java, javascript/typescript, C/C++ and Rust in the future, though focusing on learning c# software development and blazor web development first.
+
+I'm not working on any large personal projects currently, since i enjoy working on projects for no more than a few weeks max.
