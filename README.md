@@ -1,7 +1,6 @@
 Hi, I'm Vetle Dyngleand
 
-I'm a 15 year old aspiring game developer from Bergen, Norway. I have been coding in c# for about three and a half years, and been using rust and bevy for about a year. 
-I know a bit of javascript, python and lua as well, though I am not as confident in these languages.
+I'm a 16 year old aspiring game developer from Bergen, Norway. I have been coding in c# for about four and a half years, I've been using rust and bevy for about 2 years and I've been using python and luafor about 2 years aswell. 
 
 Where you can reach me:
 - Mail: vetle.dyngeland@gmail.com
